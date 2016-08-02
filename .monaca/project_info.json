@@ -1,0 +1,23 @@
+{
+    "plugins": [
+        "mobi.monaca.plugins.Monaca"
+    ],
+    "framework_version": "3.5",
+    "xcode_version": "6",
+    "cordova_version": "5.2",
+    "plugin_settings": [],
+    "external_plugins": [
+        "cordova-plugin-whitelist@1.0.0",
+        "cordova-plugin-splashscreen@2.1.0",
+        "ncmb-push-monaca-plugin@2.0.0"
+    ],
+    "title-ja": "しりとりアプリ_佐藤",
+    "title-en": "",
+    "description-ja": "",
+    "description-en": "",
+    "category": "User Template",
+    "platform": [
+        "winrt"
+    ],
+    "name": "generated-1466504692-5703385a7e2193843bef68a1"
+}
